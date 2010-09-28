@@ -1,0 +1,458 @@
+TiCalculator
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C05C1B10000000000000110
+t1275445681
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004BF4B7F900000000000001E5
+t1274329081
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C04711400000000000009CD
+t1275359508
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471FC0000000002D563E0
+t1275359740
+s47539168
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/*.png
+c000000004C8731100000000000000EBB
+t1283928336
+s3771
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/+.png
+c000000004C87307E0000000000000DBB
+t1283928190
+s3515
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/-.png
+c000000004C8730AB0000000000000C0A
+t1283928235
+s3082
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/0.png
+c000000004C872FF4000000000000105C
+t1283928052
+s4188
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/1.png
+c000000004C872DB10000000000000F13
+t1283927473
+s3859
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/2.png
+c000000004C872E01000000000000101D
+t1283927553
+s4125
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/3.png
+c000000004C872E440000000000000FF6
+t1283927620
+s4086
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/4.png
+c000000004C872EB20000000000001034
+t1283927730
+s4148
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/5.png
+c000000004C872EE60000000000000FD7
+t1283927782
+s4055
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/6.png
+c000000004C872EFC00000000000010AB
+t1283927804
+s4267
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/7.png
+c000000004C872F290000000000000F41
+t1283927849
+s3905
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/8.png
+c000000004C872F5E00000000000010F4
+t1283927902
+s4340
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/9.png
+c000000004C872F89000000000000108C
+t1283927945
+s4236
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/bg.png
+c000000004C8731D50000000000029CD8
+t1283928533
+s171224
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/c.png
+c000000004C8730450000000000000DF5
+t1283928133
+s3573
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/dot.png
+c000000004C88594C0000000000000C4D
+t1284004172
+s3149
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/icon.png
+c000000004C88615E000000000000233E
+t1284006238
+s9022
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/÷.png
+c000000004C873C2A0000000000000D76
+t1283931178
+s3446
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/半透明层.png
+c000000004C5A849A0000000000000B67
+t1281000602
+s2919
+
+N/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorAppDelegate.h
+c000000004C871EA900000000000001F0
+t1283923625
+s496
+i<UIKit/UIKit.h>
+
+N/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorAppDelegate.m
+c000000004C871EA90000000000000A98
+t1283923625
+s2712
+i"iCalculatorAppDelegate.h"
+i"iCalculatorViewController.h"
+
+N/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorViewController.h
+c000000004C8720060000000000000498
+t1283923974
+s1176
+i<UIKit/UIKit.h>
+
+N/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorViewController.m
+c000000004C8720060000000000001E59
+t1283923974
+s7769
+i"iCalculatorViewController.h"
+
+N/Users/Daniel/iphone app/iCalculator/MainWindow.xib
+c000000004C871EA90000000000004E59
+t1283923625
+s20057
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app.dSYM
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/*.png
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/+.png
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/-.png
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/0.png
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/1.png
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/2.png
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/3.png
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/4.png
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/5.png
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/6.png
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/7.png
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/8.png
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/9.png
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/Info.plist
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/MainWindow.nib
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/PkgInfo
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/ResourceRules.plist
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/bg.png
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/c.png
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/dot.png
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/iCalculator
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/iCalculatorViewController.nib
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/icon.png
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/÷.png
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/半透明层.png
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphoneos/iCalculator.build/Objects-normal/armv6/iCalculator
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphoneos/iCalculator.build/Objects-normal/armv6/iCalculator.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphoneos/iCalculator.build/Objects-normal/armv6/iCalculatorAppDelegate.o
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphoneos/iCalculator.build/Objects-normal/armv6/iCalculatorViewController.o
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphoneos/iCalculator.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphoneos/iCalculator.build/Objects-normal/armv7/iCalculator
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphoneos/iCalculator.build/Objects-normal/armv7/iCalculator.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphoneos/iCalculator.build/Objects-normal/armv7/iCalculatorAppDelegate.o
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphoneos/iCalculator.build/Objects-normal/armv7/iCalculatorViewController.o
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphoneos/iCalculator.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/iCalculatorViewController.xib
+c000000004C8859EE000000000000E93E
+t1284004334
+s59710
+
+N/Users/Daniel/iphone app/iCalculator/iCalculator_Prefix.pch
+c000000004C871EA900000000000000BF
+t1283923625
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Daniel/iphone app/iCalculator/main.m
+c000000004C871EA90000000000000166
+t1283923625
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-bxlmimiwbtreuweasbvkpqkzmlus/iCalculator_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-dwbntmvwddpwqedukztpdfvdkldd/iCalculator_Prefix.pch.gch
+t2
+s0
+
+NiCalculator-Info.plist
+c000000004C871EA9000000000000038D
+t1283923625
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies305701209#305701209#0(133"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain1(4@125"Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain305701209#18446744073709551615#0#0(1@0"0(0#1#0"8618977472#0"0#
+
+CCompileC build/iCalculator.build/Debug-iphoneos/iCalculator.build/Objects-normal/armv6/iCalculatorAppDelegate.o "/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCalculator.build/Debug-iphoneos/iCalculator.build/Objects-normal/armv6/iCalculatorViewController.o "/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCalculator.build/Debug-iphoneos/iCalculator.build/Objects-normal/armv6/main.o "/Users/Daniel/iphone app/iCalculator/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCalculator.build/Debug-iphoneos/iCalculator.build/Objects-normal/armv7/iCalculatorAppDelegate.o "/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCalculator.build/Debug-iphoneos/iCalculator.build/Objects-normal/armv7/iCalculatorViewController.o "/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCalculator.build/Debug-iphoneos/iCalculator.build/Objects-normal/armv7/main.o "/Users/Daniel/iphone app/iCalculator/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/Daniel/iphone app/iCalculator/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/Daniel/iphone app/iCalculator/iCalculatorViewController.xib"
+r0
+
+CCopyPNGFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/*.png" ../../Desktop/bottonicon/*.png
+r0
+
+CCopyPNGFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/+.png" ../../Desktop/bottonicon/+.png
+r0
+
+CCopyPNGFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/-.png" ../../Desktop/bottonicon/-.png
+r0
+
+CCopyPNGFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/0.png" ../../Desktop/bottonicon/0.png
+r0
+
+CCopyPNGFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/1.png" ../../Desktop/bottonicon/1.png
+r0
+
+CCopyPNGFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/2.png" ../../Desktop/bottonicon/2.png
+r0
+
+CCopyPNGFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/3.png" ../../Desktop/bottonicon/3.png
+r0
+
+CCopyPNGFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/4.png" ../../Desktop/bottonicon/4.png
+r0
+
+CCopyPNGFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/5.png" ../../Desktop/bottonicon/5.png
+r0
+
+CCopyPNGFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/6.png" ../../Desktop/bottonicon/6.png
+r0
+
+CCopyPNGFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/7.png" ../../Desktop/bottonicon/7.png
+r0
+
+CCopyPNGFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/8.png" ../../Desktop/bottonicon/8.png
+r0
+
+CCopyPNGFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/9.png" ../../Desktop/bottonicon/9.png
+r0
+
+CCopyPNGFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/bg.png" ../../Desktop/bottonicon/bg.png
+r0
+
+CCopyPNGFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/c.png" ../../Desktop/bottonicon/c.png
+r0
+
+CCopyPNGFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/dot.png" ../../Desktop/bottonicon/dot.png
+r0
+
+CCopyPNGFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/icon.png" ../../Desktop/bottonicon/icon.png
+r0
+
+CCopyPNGFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/÷.png" ../../Desktop/bottonicon/÷.png
+r0
+
+CCopyPNGFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/半透明层.png" ../../Desktop/bottonicon/半透明层.png
+r0
+
+CCpResource build/Debug-iphoneos/iCalculator.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/iCalculator" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app.dSYM" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/iCalculator"
+r0
+
+CLd "/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphoneos/iCalculator.build/Objects-normal/armv6/iCalculator" normal armv6
+r0
+
+CLd "/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphoneos/iCalculator.build/Objects-normal/armv7/iCalculator" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app/Info.plist" iCalculator-Info.plist
+r0
+
+CProcessPCH /var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-bxlmimiwbtreuweasbvkpqkzmlus/iCalculator_Prefix.pch.gch iCalculator_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-dwbntmvwddpwqedukztpdfvdkldd/iCalculator_Prefix.pch.gch iCalculator_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/Daniel/iphone app/iCalculator/build/Debug-iphoneos/iCalculator.app"
+r0
+

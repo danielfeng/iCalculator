@@ -1,0 +1,797 @@
+TiCalculator
+v7
+r0
+t307274953.811594
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/Info.plist" iCalculator-Info.plist
+cCompileXIB "/Users/Daniel/iphone app/iCalculator/MainWindow.xib"
+cCompileXIB "/Users/Daniel/iphone app/iCalculator/iCalculatorViewController.xib"
+cCpResource build/Debug-iphonesimulator/iCalculator.app/-.png ../../Desktop/bottonicon/-.png
+cCpResource build/Debug-iphonesimulator/iCalculator.app/*.png ../../Desktop/bottonicon/*.png
+cCpResource build/Debug-iphonesimulator/iCalculator.app/+.png ../../Desktop/bottonicon/+.png
+cCpResource build/Debug-iphonesimulator/iCalculator.app/÷.png ../../Desktop/bottonicon/÷.png
+cCpResource build/Debug-iphonesimulator/iCalculator.app/0.png ../../Desktop/bottonicon/0.png
+cCpResource build/Debug-iphonesimulator/iCalculator.app/1.png ../../Desktop/bottonicon/1.png
+cCpResource build/Debug-iphonesimulator/iCalculator.app/2.png ../../Desktop/bottonicon/2.png
+cCpResource build/Debug-iphonesimulator/iCalculator.app/3.png ../../Desktop/bottonicon/3.png
+cCpResource build/Debug-iphonesimulator/iCalculator.app/4.png ../../Desktop/bottonicon/4.png
+cCpResource build/Debug-iphonesimulator/iCalculator.app/5.png ../../Desktop/bottonicon/5.png
+cCpResource build/Debug-iphonesimulator/iCalculator.app/6.png ../../Desktop/bottonicon/6.png
+cCpResource build/Debug-iphonesimulator/iCalculator.app/7.png ../../Desktop/bottonicon/7.png
+cCpResource build/Debug-iphonesimulator/iCalculator.app/8.png ../../Desktop/bottonicon/8.png
+cCpResource build/Debug-iphonesimulator/iCalculator.app/9.png ../../Desktop/bottonicon/9.png
+cCpResource build/Debug-iphonesimulator/iCalculator.app/bg.png ../../Desktop/bottonicon/bg.png
+cCpResource build/Debug-iphonesimulator/iCalculator.app/c.png ../../Desktop/bottonicon/c.png
+cCpResource build/Debug-iphonesimulator/iCalculator.app/半透明层.png ../../Desktop/bottonicon/半透明层.png
+cCpResource build/Debug-iphonesimulator/iCalculator.app/dot.png ../../Desktop/bottonicon/dot.png
+cCpResource build/Debug-iphonesimulator/iCalculator.app/icon.png ../../Desktop/bottonicon/icon.png
+cCpResource build/Debug-iphonesimulator/iCalculator.app/=.png ../../Desktop/bottonicon/=.png
+cCpResource build/Debug-iphonesimulator/iCalculator.app/÷3.png ../../Desktop/bottonicon/÷3.png
+cCpResource build/Debug-iphonesimulator/iCalculator.app/icon1.png ../../Desktop/bottonicon/icon1.png
+cProcessPCH /var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-gcizyeaoiddmrmhhlniyscjrhyce/iCalculator_Prefix.pch.gch iCalculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/Objects-normal/i386/main.o "/Users/Daniel/iphone app/iCalculator/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/Objects-normal/i386/iCalculatorAppDelegate.o "/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/Objects-normal/i386/iCalculatorViewController.o "/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/iCalculator" normal i386
+cGenerateDSYMFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app.dSYM" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/iCalculator"
+cTouch "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C494D260000000000000110
+t1279872294
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C494D410000000000000132
+t1279872321
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/=.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/*.png
+c000000004CA0437A0000000000000F55
+t1285571450
+s3925
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/+.png
+c000000004CA0432A0000000000000DDB
+t1285571370
+s3547
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/-.png
+c000000004CA043D30000000000000C3A
+t1285571539
+s3130
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/0.png
+c000000004C872FF4000000000000105C
+t1283928052
+s4188
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/1.png
+c000000004C872DB10000000000000F13
+t1283927473
+s3859
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/2.png
+c000000004C872E01000000000000101D
+t1283927553
+s4125
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/3.png
+c000000004C872E440000000000000FF6
+t1283927620
+s4086
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/4.png
+c000000004C872EB20000000000001034
+t1283927730
+s4148
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/5.png
+c000000004C872EE60000000000000FD7
+t1283927782
+s4055
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/6.png
+c000000004C872EFC00000000000010AB
+t1283927804
+s4267
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/7.png
+c000000004C872F290000000000000F41
+t1283927849
+s3905
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/8.png
+c000000004C872F5E00000000000010F4
+t1283927902
+s4340
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/9.png
+c000000004C872F89000000000000108C
+t1283927945
+s4236
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/=.png
+c000000004C8897640000000000000E9F
+t1284020068
+s3743
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/bg.png
+c000000004C8731D50000000000029CD8
+t1283928533
+s171224
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/c.png
+c000000004C8730450000000000000DF5
+t1283928133
+s3573
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/dot.png
+c000000004C88594C0000000000000C4D
+t1284004172
+s3149
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/icon.png
+c000000004C88615E000000000000233E
+t1284006238
+s9022
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/icon1.png
+c000000004CA04CF80000000000002DF3
+t1285573880
+s11763
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/÷.png
+c000000004C873C2A0000000000000D76
+t1283931178
+s3446
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/÷3.png
+c000000004CA041A20000000000000C5D
+t1285570978
+s3165
+
+N/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/半透明层.png
+c000000004C5A849A0000000000000B67
+t1281000602
+s2919
+
+N/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorAppDelegate.h
+c000000004C871EA900000000000001F0
+t1283923625
+s496
+i<UIKit/UIKit.h>
+
+N/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorAppDelegate.m
+c000000004C871EA90000000000000A98
+t1283923625
+s2712
+i"iCalculatorAppDelegate.h"
+i"iCalculatorViewController.h"
+
+N/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorViewController.h
+c000000004C8720060000000000000498
+t1283923974
+s1176
+i<UIKit/UIKit.h>
+
+N/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorViewController.m
+c000000004C8720060000000000001E59
+t1283923974
+s7769
+i"iCalculatorViewController.h"
+
+N/Users/Daniel/iphone app/iCalculator/MainWindow.xib
+c000000004C871EA90000000000004E59
+t1283923625
+s20057
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app
+t1285582153
+s986
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app.dSYM
+t1285582153
+s102
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/*.png
+t1285571571
+s3925
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/+.png
+t1285571571
+s3547
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/-.png
+t1285571571
+s3130
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/0.png
+t1283929314
+s4188
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/1.png
+t1283929314
+s3859
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/2.png
+t1283929314
+s4125
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/3.png
+t1283929314
+s4086
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/4.png
+t1283929314
+s4148
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/5.png
+t1283929314
+s4055
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/6.png
+t1283929314
+s4267
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/7.png
+t1283929314
+s3905
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/8.png
+t1283929314
+s4340
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/9.png
+t1283929315
+s4236
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/=.png
+t1285571158
+s3743
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/Info.plist
+t1285582148
+s642
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/MainWindow.nib
+t1285582150
+s1131
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/PkgInfo
+t1285582148
+s8
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/bg.png
+t1283929315
+s171224
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/c.png
+t1283929315
+s3573
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/dot.png
+t1284004340
+s3149
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/iCalculator
+t1285582153
+s31284
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/iCalculatorViewController.nib
+t1285582150
+s5589
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/icon.png
+t1284006265
+s9022
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/icon1.png
+t1285573975
+s11763
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/÷.png
+t1283932836
+s3446
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/÷3.png
+t1285571158
+s3165
+
+N/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/半透明层.png
+t1283932742
+s2919
+
+N/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/Objects-normal/i386/iCalculator.LinkFileList
+c000000004C87200600000000000001A7
+t1283923974
+s423
+
+N/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/Objects-normal/i386/iCalculatorAppDelegate.o
+t1285582152
+s48620
+
+N/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/Objects-normal/i386/iCalculatorViewController.o
+t1285582152
+s67244
+
+N/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/Objects-normal/i386/main.o
+t1285582152
+s6300
+
+N/Users/Daniel/iphone app/iCalculator/iCalculatorViewController.xib
+c000000004CA043EB000000000000EA4A
+t1285571563
+s59978
+
+N/Users/Daniel/iphone app/iCalculator/iCalculator_Prefix.pch
+c000000004C871EA900000000000000BF
+t1283923625
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Daniel/iphone app/iCalculator/main.m
+c000000004C871EA90000000000000166
+t1283923625
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-fvhthezpmcftgjeknytsecjxmfkt/iCalculator_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-gcizyeaoiddmrmhhlniyscjrhyce/iCalculator_Prefix.pch.gch
+t1284025084
+s15211536
+
+N/var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-gcspwltwmdboidciuhyzwvhoclsw/iCalculator_Prefix.pch.gch
+t1284095404
+s15211536
+
+N/var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-hktjeelclpjskfgesokxrtvmppvs/iCalculator_Prefix.pch.gch
+t1283923981
+s15232016
+
+NiCalculator-Info.plist
+c000000004CA04D530000000000000396
+t1285573971
+s918
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307274948#307274948#0(0"0(0#1#0"8629045568#0"0#
+
+CCompileC build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/Objects-normal/i386/iCalculatorAppDelegate.o "/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307274950.810536
+e307274952.863929
+r1
+xCompileC
+xbuild/iCalculator.build/Debug-iphonesimulator/iCalculator.build/Objects-normal/i386/iCalculatorAppDelegate.o
+x/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@77"Compile /Users/Daniel/iphone app/iCalculator/Classes/iCalculatorAppDelegate.m307274950#307274952#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#69"/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorAppDelegate.m8628214624#2079"    cd "/Users/Daniel/iphone app/iCalculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-generated-files.hmap" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-own-target-headers.hmap" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-all-target-headers.hmap" -iquote "/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-project-headers.hmap" "-F/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator" "-I/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/include" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/DerivedSources/i386" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/DerivedSources" -include /var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-gcizyeaoiddmrmhhlniyscjrhyce/iCalculator_Prefix.pch -c "/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorAppDelegate.m" -o "/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/Objects-normal/i386/iCalculatorAppDelegate.o"0#
+
+CCompileC build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/Objects-normal/i386/iCalculatorViewController.o "/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307274950.811628
+e307274952.864215
+r1
+xCompileC
+xbuild/iCalculator.build/Debug-iphonesimulator/iCalculator.build/Objects-normal/i386/iCalculatorViewController.o
+x/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@80"Compile /Users/Daniel/iphone app/iCalculator/Classes/iCalculatorViewController.m307274950#307274952#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#72"/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorViewController.m8626578784#2085"    cd "/Users/Daniel/iphone app/iCalculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-generated-files.hmap" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-own-target-headers.hmap" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-all-target-headers.hmap" -iquote "/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-project-headers.hmap" "-F/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator" "-I/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/include" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/DerivedSources/i386" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/DerivedSources" -include /var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-gcizyeaoiddmrmhhlniyscjrhyce/iCalculator_Prefix.pch -c "/Users/Daniel/iphone app/iCalculator/Classes/iCalculatorViewController.m" -o "/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/Objects-normal/i386/iCalculatorViewController.o"0#
+
+CCompileC build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/Objects-normal/i386/main.o "/Users/Daniel/iphone app/iCalculator/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307274950.794462
+e307274952.863503
+r1
+xCompileC
+xbuild/iCalculator.build/Debug-iphonesimulator/iCalculator.build/Objects-normal/i386/main.o
+x/Users/Daniel/iphone app/iCalculator/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@51"Compile /Users/Daniel/iphone app/iCalculator/main.m307274950#307274952#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#43"/Users/Daniel/iphone app/iCalculator/main.m8628642656#2035"    cd "/Users/Daniel/iphone app/iCalculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-generated-files.hmap" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-own-target-headers.hmap" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-all-target-headers.hmap" -iquote "/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-project-headers.hmap" "-F/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator" "-I/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/include" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/DerivedSources/i386" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/DerivedSources" -include /var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-gcizyeaoiddmrmhhlniyscjrhyce/iCalculator_Prefix.pch -c "/Users/Daniel/iphone app/iCalculator/main.m" -o "/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/Daniel/iphone app/iCalculator/MainWindow.xib"
+s307274948.131043
+e307274950.332011
+r1
+xCompileXIB
+x/Users/Daniel/iphone app/iCalculator/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib307274948#307274950#0(0"0(0#0#51"/Users/Daniel/iphone app/iCalculator/MainWindow.xib8626442304#574"    cd "/Users/Daniel/iphone app/iCalculator"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/MainWindow.nib" "/Users/Daniel/iphone app/iCalculator/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/Daniel/iphone app/iCalculator/iCalculatorViewController.xib"
+s307274948.147347
+e307274950.794127
+r1
+xCompileXIB
+x/Users/Daniel/iphone app/iCalculator/iCalculatorViewController.xib
+lSLF07#2@40"CompileXIB iCalculatorViewController.xib307274948#307274950#0(0"0(0#0#66"/Users/Daniel/iphone app/iCalculator/iCalculatorViewController.xib8628559232#604"    cd "/Users/Daniel/iphone app/iCalculator"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/iCalculatorViewController.nib" "/Users/Daniel/iphone app/iCalculator/iCalculatorViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/*.png ../../Desktop/bottonicon/*.png
+s307264371.622561
+e307264371.772571
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/*.png
+x../../Desktop/bottonicon/*.png
+lSLF07#2@35"Copy ../../Desktop/bottonicon/*.png307264371#307264371#0(0"0(0#0#67"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/*.png8602999744#478"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/*.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/+.png ../../Desktop/bottonicon/+.png
+s307264371.623570
+e307264371.774098
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/+.png
+x../../Desktop/bottonicon/+.png
+lSLF07#2@35"Copy ../../Desktop/bottonicon/+.png307264371#307264371#0(0"0(0#0#67"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/+.png8607825408#478"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/+.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/-.png ../../Desktop/bottonicon/-.png
+s307264371.621457
+e307264371.772302
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/-.png
+x../../Desktop/bottonicon/-.png
+lSLF07#2@35"Copy ../../Desktop/bottonicon/-.png307264371#307264371#0(0"0(0#0#67"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/-.png32651513917341812#478"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/-.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/0.png ../../Desktop/bottonicon/0.png
+s305622114.436248
+e305622114.905299
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/0.png
+x../../Desktop/bottonicon/0.png
+lSLF07#2@35"Copy ../../Desktop/bottonicon/0.png305622114#305622115#0(0"0(0#0#67"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/0.png8603734080#478"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/0.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/1.png ../../Desktop/bottonicon/1.png
+s305622114.437192
+e305622114.905417
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/1.png
+x../../Desktop/bottonicon/1.png
+lSLF07#2@35"Copy ../../Desktop/bottonicon/1.png305622114#305622115#0(0"0(0#0#67"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/1.png8602958624#478"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/1.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/2.png ../../Desktop/bottonicon/2.png
+s305622114.438155
+e305622114.905580
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/2.png
+x../../Desktop/bottonicon/2.png
+lSLF07#2@35"Copy ../../Desktop/bottonicon/2.png305622114#305622115#0(0"0(0#0#67"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/2.png8601455808#478"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/2.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/3.png ../../Desktop/bottonicon/3.png
+s305622114.439096
+e305622114.905748
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/3.png
+x../../Desktop/bottonicon/3.png
+lSLF07#2@35"Copy ../../Desktop/bottonicon/3.png305622114#305622115#0(0"0(0#0#67"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/3.png8601050944#478"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/3.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/4.png ../../Desktop/bottonicon/4.png
+s305622114.440077
+e305622114.905921
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/4.png
+x../../Desktop/bottonicon/4.png
+lSLF07#2@35"Copy ../../Desktop/bottonicon/4.png305622114#305622115#0(0"0(0#0#67"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/4.png8600346592#478"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/4.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/5.png ../../Desktop/bottonicon/5.png
+s305622114.806146
+e305622115.057846
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/5.png
+x../../Desktop/bottonicon/5.png
+lSLF07#2@35"Copy ../../Desktop/bottonicon/5.png305622114#305622115#0(0"0(0#0#67"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/5.png8611686688#478"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/5.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/6.png ../../Desktop/bottonicon/6.png
+s305622114.904057
+e305622115.057679
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/6.png
+x../../Desktop/bottonicon/6.png
+lSLF07#2@35"Copy ../../Desktop/bottonicon/6.png305622114#305622115#0(0"0(0#0#67"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/6.png8606584288#478"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/6.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/7.png ../../Desktop/bottonicon/7.png
+s305622114.906032
+e305622115.057497
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/7.png
+x../../Desktop/bottonicon/7.png
+lSLF07#2@35"Copy ../../Desktop/bottonicon/7.png305622114#305622115#0(0"0(0#0#67"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/7.png8604107616#478"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/7.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/8.png ../../Desktop/bottonicon/8.png
+s305622114.907028
+e305622115.058008
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/8.png
+x../../Desktop/bottonicon/8.png
+lSLF07#2@35"Copy ../../Desktop/bottonicon/8.png305622114#305622115#0(0"0(0#0#67"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/8.png8603657152#478"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/8.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/9.png ../../Desktop/bottonicon/9.png
+s305622114.908061
+e305622115.086065
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/9.png
+x../../Desktop/bottonicon/9.png
+lSLF07#2@35"Copy ../../Desktop/bottonicon/9.png305622114#305622115#0(0"0(0#0#67"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/9.png8602961472#478"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/9.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/=.png ../../Desktop/=.png
+s305713003.438239
+e305713003.644415
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/=.png
+x../../Desktop/=.png
+lSLF07#2@24"Copy ../../Desktop/=.png305713003#305713003#0(0"0(0#0#56"/Users/Daniel/iphone app/iCalculator/../../Desktop/=.png32651513917341812#467"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/=.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/=.png ../../Desktop/bottonicon/=.png
+s307263957.969554
+e307263958.955977
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/=.png
+x../../Desktop/bottonicon/=.png
+lSLF07#2@35"Copy ../../Desktop/bottonicon/=.png307263957#307263958#0(0"0(0#0#67"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/=.png8608239552#478"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/=.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/bg.png ../../Desktop/bottonicon/bg.png
+s305622115.055294
+e305622115.120926
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/bg.png
+x../../Desktop/bottonicon/bg.png
+lSLF07#2@36"Copy ../../Desktop/bottonicon/bg.png305622115#305622115#0(0"0(0#0#68"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/bg.png8613351040#479"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/bg.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/c.png ../../Desktop/bottonicon/c.png
+s305622115.056373
+e305622115.086992
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/c.png
+x../../Desktop/bottonicon/c.png
+lSLF07#2@35"Copy ../../Desktop/bottonicon/c.png305622115#305622115#0(0"0(0#0#67"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/c.png8606570592#478"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/c.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/dot.png ../../Desktop/bottonicon/dot.png
+s305697139.845217
+e305697140.034945
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/dot.png
+x../../Desktop/bottonicon/dot.png
+lSLF07#2@37"Copy ../../Desktop/bottonicon/dot.png305697139#305697140#0(0"0(0#0#69"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/dot.png8616809632#480"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/dot.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/icon.png ../../Desktop/bottonicon/icon.png
+s305699065.732652
+e305699065.774710
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/icon.png
+x../../Desktop/bottonicon/icon.png
+lSLF07#2@38"Copy ../../Desktop/bottonicon/icon.png305699065#305699065#0(0"0(0#0#70"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/icon.png8617420736#481"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/icon.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/icon1.png ../../Desktop/bottonicon/icon1.png
+s307266775.499800
+e307266775.542930
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/icon1.png
+x../../Desktop/bottonicon/icon1.png
+lSLF07#2@39"Copy ../../Desktop/bottonicon/icon1.png307266775#307266775#0(0"0(0#0#71"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/icon1.png8607582144#482"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/icon1.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/÷.png ../../Desktop/bottonicon/÷.png
+s305625636.279482
+e305625636.327310
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/÷.png
+x../../Desktop/bottonicon/÷.png
+lSLF07#2@36"Copy ../../Desktop/bottonicon/÷.png305625636#305625636#0(0"0(0#0#68"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/÷.png8611584192#479"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/÷.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/÷3.png ../../Desktop/bottonicon/÷3.png
+s307263957.993588
+e307263958.913134
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/÷3.png
+x../../Desktop/bottonicon/÷3.png
+lSLF07#2@37"Copy ../../Desktop/bottonicon/÷3.png307263957#307263958#0(0"0(0#0#69"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/÷3.png8608296576#480"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/÷3.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CCpResource build/Debug-iphonesimulator/iCalculator.app/半透明层.png ../../Desktop/bottonicon/半透明层.png
+s305625542.578072
+e305625542.655818
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalculator.app/半透明层.png
+x../../Desktop/bottonicon/半透明层.png
+lSLF07#2@46"Copy ../../Desktop/bottonicon/半透明层.png305625542#305625542#0(0"0(0#0#78"/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/半透明层.png8613524128#489"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Daniel/iphone app/iCalculator/../../Desktop/bottonicon/半透明层.png" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
+CGenerateDSYMFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app.dSYM" "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/iCalculator"
+s307274953.658331
+e307274953.786404
+r1
+xGenerateDSYMFile
+x/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app.dSYM
+x/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/iCalculator
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/iCalculator.app.dSYM build/Debug-iphonesimulator/iCalculator.app/iCalculator307274953#307274953#0(0"0(0#0#92"/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/iCalculator8623751360#395"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/iCalculator" -o "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app.dSYM"0#
+
+CLd "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/iCalculator" normal i386
+s307274952.864279
+e307274953.658234
+r1
+xLd
+x/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/iCalculator
+xnormal
+xi386
+lSLF07#2@97"Link /Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/iCalculator307274952#307274953#0(0"0(0#0#0"8625655328#920"    cd "/Users/Daniel/iphone app/iCalculator"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator" "-F/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator" -filelist "/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/Objects-normal/i386/iCalculator.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/iCalculator"0#
+
+CProcessInfoPlistFile "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/Info.plist" iCalculator-Info.plist
+s307274948.116549
+e307274948.130946
+r1
+xProcessInfoPlistFile
+x/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/Info.plist
+xiCalculator-Info.plist
+lSLF07#2@30"Process iCalculator-Info.plist307274948#307274948#0(0"0(0#0#59"/Users/Daniel/iphone app/iCalculator/iCalculator-Info.plist8626558240#491"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iCalculator-Info.plist -genpkginfo "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app/Info.plist"0#
+
+CProcessPCH /var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-fvhthezpmcftgjeknytsecjxmfkt/iCalculator_Prefix.pch.gch iCalculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-gcizyeaoiddmrmhhlniyscjrhyce/iCalculator_Prefix.pch.gch iCalculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s305717876.777097
+e305717884.852655
+r1
+xProcessPCH
+x/var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-gcizyeaoiddmrmhhlniyscjrhyce/iCalculator_Prefix.pch.gch
+xiCalculator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@33"Precompile iCalculator_Prefix.pch305717876#305717884#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#59"/Users/Daniel/iphone app/iCalculator/iCalculator_Prefix.pch8607876480#1923"    cd "/Users/Daniel/iphone app/iCalculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-generated-files.hmap" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-own-target-headers.hmap" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-all-target-headers.hmap" -iquote "/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-project-headers.hmap" "-F/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator" "-I/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/include" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/DerivedSources/i386" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/DerivedSources" -c "/Users/Daniel/iphone app/iCalculator/iCalculator_Prefix.pch" -o /var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-gcizyeaoiddmrmhhlniyscjrhyce/iCalculator_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-gcspwltwmdboidciuhyzwvhoclsw/iCalculator_Prefix.pch.gch iCalculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s305788202.190967
+e305788205.146824
+r1
+xProcessPCH
+x/var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-gcspwltwmdboidciuhyzwvhoclsw/iCalculator_Prefix.pch.gch
+xiCalculator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile iCalculator_Prefix.pch305788202#305788205#0(0"0(0#0#59"/Users/Daniel/iphone app/iCalculator/iCalculator_Prefix.pch8607647040#1882"    cd "/Users/Daniel/iphone app/iCalculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-generated-files.hmap" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-own-target-headers.hmap" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-all-target-headers.hmap" -iquote "/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-project-headers.hmap" "-F/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator" "-I/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/include" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/DerivedSources/i386" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/DerivedSources" -c "/Users/Daniel/iphone app/iCalculator/iCalculator_Prefix.pch" -o /var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-gcspwltwmdboidciuhyzwvhoclsw/iCalculator_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-hktjeelclpjskfgesokxrtvmppvs/iCalculator_Prefix.pch.gch iCalculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s305616779.333939
+e305616781.877905
+r1
+xProcessPCH
+x/var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-hktjeelclpjskfgesokxrtvmppvs/iCalculator_Prefix.pch.gch
+xiCalculator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile iCalculator_Prefix.pch305616779#305616781#0(0"0(0#0#59"/Users/Daniel/iphone app/iCalculator/iCalculator_Prefix.pch8611508480#1869"    cd "/Users/Daniel/iphone app/iCalculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-generated-files.hmap" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-own-target-headers.hmap" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-all-target-headers.hmap" -iquote "/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/iCalculator-project-headers.hmap" "-F/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator" "-I/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/include" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/DerivedSources/i386" "-I/Users/Daniel/iphone app/iCalculator/build/iCalculator.build/Debug-iphonesimulator/iCalculator.build/DerivedSources" -c "/Users/Daniel/iphone app/iCalculator/iCalculator_Prefix.pch" -o /var/folders/Bl/BldUEkMJHDa6VF8+aRYUZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalculator_Prefix-hktjeelclpjskfgesokxrtvmppvs/iCalculator_Prefix.pch.gch0#
+
+CTouch "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"
+s307274953.786509
+e307274953.811516
+r1
+xTouch
+x/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app
+lSLF07#2@86"Touch /Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app307274953#307274953#0(0"0(0#0#0"8623447040#282"    cd "/Users/Daniel/iphone app/iCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Daniel/iphone app/iCalculator/build/Debug-iphonesimulator/iCalculator.app"0#
+
