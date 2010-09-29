@@ -11,7 +11,7 @@
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1965, 1424}}";
 			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 1304}";
+			sepNavVisRange = "{549, 1685}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* iCalculator */ = {
@@ -22,22 +22,22 @@
 	};
 	28D7ACF60DDB3853001CB0EB /* iCalculatorViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {762, 880}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1148, 880}}";
 			sepNavSelRange = "{1139, 0}";
-			sepNavVisRange = "{558, 587}";
+			sepNavVisRange = "{252, 894}";
 		};
 	};
 	28D7ACF70DDB3853001CB0EB /* iCalculatorViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {762, 5744}}";
-			sepNavSelRange = "{4373, 0}";
-			sepNavVisRange = "{3, 605}";
+			sepNavIntBoundsRect = "{{0, 0}, {1148, 5792}}";
+			sepNavSelRange = "{4649, 7}";
+			sepNavVisRange = "{4319, 771}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 65B448C9123756290020CB5F /* iCalculator */;
-		activeSDKPreference = iphonesimulator4.0;
+		activeSDKPreference = iphoneos4.1;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* iCalculator */;
 		addToTargets = (
 			1D6058900D05DD3D006BFB54 /* iCalculator */,
@@ -52,7 +52,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					584,
+					970,
 					20,
 					48,
 					43,
@@ -69,23 +69,23 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 307273191;
-			PBXWorkspaceStateSaveDate = 307273191;
+			PBXPerProjectTemplateStateSaveDate = 307354771;
+			PBXWorkspaceStateSaveDate = 307354771;
 		};
 		perUserProjectItems = {
-			65267F2912509B9400AB2196 /* PBXTextBookmark */ = 65267F2912509B9400AB2196 /* PBXTextBookmark */;
 			65267F2A12509B9400AB2196 /* PBXTextBookmark */ = 65267F2A12509B9400AB2196 /* PBXTextBookmark */;
 			65267F2B12509B9400AB2196 /* PBXTextBookmark */ = 65267F2B12509B9400AB2196 /* PBXTextBookmark */;
 			65267F2C12509B9400AB2196 /* PBXBookmark */ = 65267F2C12509B9400AB2196 /* PBXBookmark */;
 			65267F2D12509B9400AB2196 /* PBXBookmark */ = 65267F2D12509B9400AB2196 /* PBXBookmark */;
 			65267F2E12509B9400AB2196 /* PBXBookmark */ = 65267F2E12509B9400AB2196 /* PBXBookmark */;
 			65267F2F12509B9400AB2196 /* PBXBookmark */ = 65267F2F12509B9400AB2196 /* PBXBookmark */;
-			65267F3012509B9400AB2196 /* PBXTextBookmark */ = 65267F3012509B9400AB2196 /* PBXTextBookmark */;
-			65267F3112509B9400AB2196 /* PBXBookmark */ = 65267F3112509B9400AB2196 /* PBXBookmark */;
-			65267F3212509B9400AB2196 /* PlistBookmark */ = 65267F3212509B9400AB2196 /* PlistBookmark */;
-			65267F3412509B9400AB2196 /* PBXBookmark */ = 65267F3412509B9400AB2196 /* PBXBookmark */;
-			65267F4E1250A66C00AB2196 /* PBXBookmark */ = 65267F4E1250A66C00AB2196 /* PBXBookmark */;
-			65F2CE29124748280000C289 /* PBXTextBookmark */ = 65F2CE29124748280000C289 /* PBXTextBookmark */;
+			655AE0AF1251DDA5002F09AC /* PBXBookmark */ = 655AE0AF1251DDA5002F09AC /* PBXBookmark */;
+			655AE0E81251E12E002F09AC /* PBXBookmark */ = 655AE0E81251E12E002F09AC /* PBXBookmark */;
+			655AE0F21251F849002F09AC /* PlistBookmark */ = 655AE0F21251F849002F09AC /* PlistBookmark */;
+			655AE0F31251F849002F09AC /* PBXTextBookmark */ = 655AE0F31251F849002F09AC /* PBXTextBookmark */;
+			655AE0F41251F849002F09AC /* PBXTextBookmark */ = 655AE0F41251F849002F09AC /* PBXTextBookmark */;
+			655AE0F51251F849002F09AC /* PBXTextBookmark */ = 655AE0F51251F849002F09AC /* PBXTextBookmark */;
+			655AE0F61251F849002F09AC /* PBXTextBookmark */ = 655AE0F61251F849002F09AC /* PBXTextBookmark */;
 			65F2CE2A124748280000C289 /* PBXTextBookmark */ = 65F2CE2A124748280000C289 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 65B448D8123756460020CB5F /* Source Control */;
@@ -105,16 +105,6 @@
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 191}";
 		};
-	};
-	65267F2912509B9400AB2196 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF60DDB3853001CB0EB /* iCalculatorViewController.h */;
-		name = "iCalculatorViewController.h: 52";
-		rLen = 0;
-		rLoc = 1139;
-		rType = 0;
-		vrLen = 587;
-		vrLoc = 558;
 	};
 	65267F2A12509B9400AB2196 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -152,39 +142,65 @@
 		isa = PBXBookmark;
 		fRef = 65267F1D1250793100AB2196 /* ÷3.png */;
 	};
-	65267F3012509B9400AB2196 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* iCalculatorViewController.m */;
-		name = "iCalculatorViewController.m: 206";
-		rLen = 0;
-		rLoc = 4373;
-		rType = 0;
-		vrLen = 605;
-		vrLoc = 3;
+	655AE0AF1251DDA5002F09AC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 65B448EE1237698B0020CB5F /* 3.png */;
 	};
-	65267F3112509B9400AB2196 /* PBXBookmark */ = {
+	655AE0E81251E12E002F09AC /* PBXBookmark */ = {
 		isa = PBXBookmark;
 		fRef = 65267F23125084B900AB2196 /* icon1.png */;
 	};
-	65267F3212509B9400AB2196 /* PlistBookmark */ = {
+	655AE0F21251F849002F09AC /* PlistBookmark */ = {
 		isa = PlistBookmark;
 		fRef = 8D1107310486CEB800E47090 /* iCalculator-Info.plist */;
 		fallbackIsa = PBXBookmark;
 		isK = 0;
 		kPath = (
-			CFBundleSignature,
+			CFBundleVersion,
 		);
 		name = "/Users/Daniel/iphone app/iCalculator/iCalculator-Info.plist";
 		rLen = 0;
-		rLoc = 9223372036854775808;
+		rLoc = 9223372036854775807;
 	};
-	65267F3412509B9400AB2196 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 65B448EE1237698B0020CB5F /* 3.png */;
+	655AE0F31251F849002F09AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iCalculatorViewController.h */;
+		name = "iCalculatorViewController.h: 52";
+		rLen = 0;
+		rLoc = 1139;
+		rType = 0;
+		vrLen = 894;
+		vrLoc = 252;
 	};
-	65267F4E1250A66C00AB2196 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 65B448EE1237698B0020CB5F /* 3.png */;
+	655AE0F41251F849002F09AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* iCalculatorAppDelegate.m */;
+		name = "iCalculatorAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1685;
+		vrLoc = 549;
+	};
+	655AE0F51251F849002F09AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iCalculatorViewController.m */;
+		name = "iCalculatorViewController.m: 220";
+		rLen = 7;
+		rLoc = 4649;
+		rType = 0;
+		vrLen = 796;
+		vrLoc = 4319;
+	};
+	655AE0F61251F849002F09AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iCalculatorViewController.m */;
+		name = "iCalculatorViewController.m: 220";
+		rLen = 7;
+		rLoc = 4649;
+		rType = 0;
+		vrLen = 771;
+		vrLoc = 4319;
 	};
 	65B448C9123756290020CB5F /* iCalculator */ = {
 		isa = PBXExecutable;
@@ -229,16 +245,6 @@
 	65B448D9123756460020CB5F /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
-	};
-	65F2CE29124748280000C289 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* iCalculatorAppDelegate.m */;
-		name = "iCalculatorAppDelegate.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 1304;
-		vrLoc = 0;
 	};
 	65F2CE2A124748280000C289 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;

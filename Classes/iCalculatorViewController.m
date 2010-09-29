@@ -217,7 +217,7 @@
 			if(num2 == 0)
 			{
 				txtResult.text = @"Error";
-				[self showMessage:@"the divided number can't be Zero"];
+				[self showMessage:@"被除数不能为零"];
 				return;
 			}
 			num1 = num1 / num2;
