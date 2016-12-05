@@ -3,7 +3,7 @@ iCalculator by danielfeng
 Introduction
 ------------
 
-iCalculator is a iphone app. It is my fist iphone app for iphone.
+iCalculator is a iphone app. It is my first iphone app for iphone.
 
 How to test
 -----------
